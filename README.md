@@ -1,4 +1,4 @@
-# YiGuanJia
+# YiGuanJia  自己开发医管家的手机端
 YiGuanJia Collector with Flutter/Android
 
 ```
